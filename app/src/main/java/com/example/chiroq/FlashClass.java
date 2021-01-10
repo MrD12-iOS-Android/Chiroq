@@ -9,6 +9,7 @@ public class FlashClass {
     private boolean flash_status = false;
     private Context context;
 
+
     public FlashClass(Context context) {
         this.context = context;
     }
